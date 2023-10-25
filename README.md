@@ -3,7 +3,6 @@
 Welcome to the world of Netflix data exploration like you've never seen before! 🌍📺
 
 ## Unveil the Streaming Magic
-
 Discover the magic of Netflix content with our interactive Tableau dashboard. This data-driven masterpiece will be your ticket to understanding the vast universe of movies and TV shows available on Netflix.
 
 ## Count, Categories, and More
